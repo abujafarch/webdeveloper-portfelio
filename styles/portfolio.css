@@ -137,3 +137,13 @@ main{
     margin-top: 0;
     font-weight: bold;
 }
+
+/* what i do styles */
+#what-i-do-description{
+    padding: 25px 155px 50px;
+    margin: 0;
+}
+
+#sectitl{
+    margin-bottom: 5px;
+}
