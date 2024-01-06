@@ -211,5 +211,13 @@ main {
 
 .download-cv{
     text-align: center;
-    margin-top: 20px;
+    margin: 20px 0 115px;
+}
+
+
+/* footer Styles */
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 230px;
 }
