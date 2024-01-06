@@ -196,7 +196,7 @@ main {
 
 .resume-item-institute {
     margin: 0 0 20px;
-    color:#757575;
+    color: #757575;
     font-size: 20px;
     font-weight: 600;
 }
@@ -209,15 +209,39 @@ main {
 }
 
 
-.download-cv{
+.download-cv {
     text-align: center;
     margin: 20px 0 115px;
 }
 
 
 /* footer Styles */
-footer{
+footer {
     display: flex;
     background-color: #FFF8F3;
     padding: 130px 230px;
+    gap: 120px;
+}
+
+.footer-column {
+    width: 50%;
+}
+
+.social-links a{
+    margin-right: 25px;
+}
+
+.contact input[type="text"], input[type="email"],
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+    width: 100%;
 }
